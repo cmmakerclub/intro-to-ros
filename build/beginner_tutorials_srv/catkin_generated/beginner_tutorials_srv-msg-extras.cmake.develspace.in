@@ -1,2 +1,0 @@
-set(beginner_tutorials_srv_MESSAGE_FILES "")
-set(beginner_tutorials_srv_SERVICE_FILES "/home/chalumpol/ros_workshop/src/beginner_tutorials_srv/srv/AddTwoInts.srv")
